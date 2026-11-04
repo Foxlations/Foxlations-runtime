@@ -1,6 +1,11 @@
 {
   "schema": 1,
-  "nativeNet": { "enabled": true, "disabledSources": ["mangafire.to"] },
+  "nativeNet": {
+    "enabled": true,
+    "disabledSources": [
+      "mangafire.to"
+    ]
+  },
   "sourceBaseUrls": {},
   "cfSelectors": {},
   "minVersion": "1.0.0",
@@ -39,6 +44,7 @@
           }
         ]
       }
-    }
+    },
+    "sig": "U1Is0OJHt99swXWL+eZVdMB/Ycg/bv+rpKtxn+3vrS09tp+1RMktyu0eENzPattYO3CgnEX9t4H12/992aodDA=="
   }
 }
