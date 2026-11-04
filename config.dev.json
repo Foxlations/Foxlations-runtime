@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "nativeNet": { "enabled": true, "disabledSources": [] },
+  "nativeNet": { "enabled": true, "disabledSources": ["mangafire.to"] },
   "sourceBaseUrls": {},
   "cfSelectors": {},
   "minVersion": "1.0.0",
