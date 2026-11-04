@@ -26,6 +26,18 @@
             "sizeBytes": 62265
           }
         ]
+      },
+      "cloudstream": {
+        "version": 1,
+        "notes": "",
+        "jars": [
+          {
+            "name": "cloudstream-library.jar",
+            "url": "https://github.com/Foxlations/Foxlations-runtime/releases/download/cloudstream-1/cloudstream-library.jar",
+            "sha256": "62e40267d48ba830dcf4032d9776c1e2ed4ef0abfa40ab143b8f876ae170fc4d",
+            "sizeBytes": 22078488
+          }
+        ]
       }
     }
   }
